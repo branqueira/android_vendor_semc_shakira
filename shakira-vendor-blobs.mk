@@ -93,4 +93,6 @@ PRODUCT_COPY_FILES += \
     vendor/semc/shakira/proprietary/app/AntHalService.apk:system/app/AntHalService.apk \
     vendor/semc/shakira/proprietary/etc/permissions/com.dsi.ant.antradio_library.xml:system/etc/permissions/com.dsi.ant.antradio_library.xml \
     vendor/semc/shakira/proprietary/framework/com.dsi.ant.antradio_library.jar:system/framework/com.dsi.ant.antradio_library.jar \
-    vendor/semc/shakira/proprietary/lib/libanthal.so:system/lib/libanthal.so
+    vendor/semc/shakira/proprietary/lib/libanthal.so:system/lib/libanthal.so \
+    vendor/semc/shakira/proprietary/etc/wifi/tiwlan_firmware.bin:system/etc/wifi/tiwlan_firmware.bin \
+    vendor/semc/shakira/proprietary/etc/wifi/softap/tiwlan_firmware.bin:system/etc/wifi/softap/tiwlan_firmware.bin
